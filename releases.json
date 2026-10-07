@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.2.6 (1.4)",
+    "date": "2026-10-07T12:02:37.497Z",
+    "changelog": "update animasi loading dots lottie"
+  },
+  {
     "version": "1.2.5 (1.4)",
     "date": "2026-10-07T02:31:30.320Z",
     "changelog": "menambahkan deteksi halaman receive"
