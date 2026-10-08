@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.2.8 (1.5)",
+    "date": "2026-10-08T22:43:39.381Z",
+    "changelog": "percepatan pengiriman resi ke spreadsheet, perbaikan lag saat kirim semua, animasi dan suara terkirim lebih mulus, deteksi high value dan statistik lebih ringan"
+  },
+  {
     "version": "1.2.7 (1.4)",
     "date": "2026-10-08T07:16:06.165Z",
     "changelog": "perbaikan tampilan animasi lottie loading dots"
