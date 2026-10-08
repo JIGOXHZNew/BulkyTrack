@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.2.7 (1.4)",
+    "date": "2026-10-08T07:16:06.165Z",
+    "changelog": "perbaikan tampilan animasi lottie loading dots"
+  },
+  {
     "version": "1.2.6 (1.4)",
     "date": "2026-10-07T12:02:37.497Z",
     "changelog": "update animasi loading dots lottie"
